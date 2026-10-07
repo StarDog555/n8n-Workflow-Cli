@@ -1,5 +1,5 @@
 # Requirements
-Lastest Node.js Version
+Lastest Node.js Versio
 
 # Run cli
 To Run Cli You Need to run these commands
