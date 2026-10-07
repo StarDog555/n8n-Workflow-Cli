@@ -1,0 +1,17 @@
+{
+  "extends": "./packages/@n8n/typescript-config/tsconfig.common.go.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": ".",
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "cli/**/*ts*"
+  ],
+  "exclude": [
+    "**/dist/**/*",
+    "**/node_modules/**/*"
+  ]
+}
